@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 10U McDavid KRACH Rankings
-Rankings generated on Wed Nov  1 07:15:31 2023.
+Rankings generated on Wed Nov  1 16:00:24 2023.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
