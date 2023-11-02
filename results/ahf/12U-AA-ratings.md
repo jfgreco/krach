@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 12U AA KRACH Rankings
-Rankings generated on Wed Nov  1 16:00:24 2023.
+Rankings generated on Thu Nov  2 07:02:41 2023.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
