@@ -1,46 +1,48 @@
 [<- back to the index](readme.md)
 # 15U AA KRACH Rankings
-Rankings generated on Fri Jan  5 07:02:43 2024.
+Rankings generated on Sat Jan  6 07:02:41 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|617|Championship|[Rebels 15U](https://gamesheetstats.com/seasons/3659/teams/140654/schedule)|20|16|2|2|0|1|451|17.8|-0.0
-2|287|Championship|[Littleton Hawks](https://gamesheetstats.com/seasons/3659/teams/177078/schedule)|4|3|1|0|0|0|156|3.8|-0.0
-3|118|Championship|[NJ Bandits 15AA](https://gamesheetstats.com/seasons/3659/teams/140648/schedule)|24|17|5|2|0|1|99|18.9|0.0
-4|86|Championship|[Rams Hockey](https://gamesheetstats.com/seasons/3659/teams/140653/schedule)|16|12|4|0|2|2|282|12.9|0.0
-5|82|Gold|[Team Philadelphia](https://gamesheetstats.com/seasons/3659/teams/140657/schedule)|29|20|7|2|1|0|95|21.9|0.0
-6|30|Gold|[Philadelphia Blazers](https://gamesheetstats.com/seasons/3659/teams/140652/schedule)|29|17|9|3|5|1|28|19.4|0.0
-7|26|Gold|[Igloo Jaguars 15U AA Elite](https://gamesheetstats.com/seasons/3659/teams/140645/schedule)|31|18|10|3|2|2|26|20.4|0.0
-8|17|Gold|[VFC 15AA Scandone](https://gamesheetstats.com/seasons/3659/teams/140659/schedule)|32|15|13|4|2|4|175|17.9|0.0
-9|17|Silver|[North Jersey Avalanche](https://gamesheetstats.com/seasons/3659/teams/140649/schedule)|23|9|12|2|2|1|231|10.9|0.0
-10|15|Silver|[RHC 15U AA](https://gamesheetstats.com/seasons/3659/teams/140655/schedule)|36|16|14|6|0|4|31|19.9|0.0
-11|12|Silver|[North Jersey Kings Yellow](https://gamesheetstats.com/seasons/3659/teams/140650/schedule)|24|11|12|1|1|0|52|12.4|0.0
-12|7|Silver|[Tri-City Eagles 15U Gold](https://gamesheetstats.com/seasons/3659/teams/140658/schedule)|13|6|4|3|0|0|9|8.4|0.0
-13|3||[North Jersey Skylands Kings](https://gamesheetstats.com/seasons/3659/teams/140651/schedule)|23|5|17|1|0|1|98|6.4|0.0
-14|3||[York Devils](https://gamesheetstats.com/seasons/3659/teams/140660/schedule)|32|8|24|0|2|2|43|8.9|0.0
-15|2||[Lehigh Valley Phantoms Youth U15AA](https://gamesheetstats.com/seasons/3659/teams/140646/schedule)|34|8|26|0|0|1|21|8.9|0.0
-16|1||[Royals 15U AA Gold](https://gamesheetstats.com/seasons/3659/teams/140656/schedule)|32|2|30|0|2|0|26|2.9|0.0
+1|211|Championship|[Rebels 15U](https://gamesheetstats.com/seasons/3659/teams/140654/schedule)|80|64|8|8|0|4|485|68.8|-0.0
+2|99|Championship|[Littleton Hawks](https://gamesheetstats.com/seasons/3659/teams/177078/schedule)|16|12|4|0|0|0|59|12.8|-0.0
+3|29|Championship|[NJ Bandits 15AA](https://gamesheetstats.com/seasons/3659/teams/140648/schedule)|96|68|20|8|0|4|32|72.9|0.0
+4|21|Championship|[Team Philadelphia](https://gamesheetstats.com/seasons/3659/teams/140657/schedule)|112|80|26|6|4|0|31|83.9|0.0
+5|20|Gold|[Rams Hockey](https://gamesheetstats.com/seasons/3659/teams/140653/schedule)|64|48|16|0|8|8|290|48.9|0.0
+6|7|Gold|[Philadelphia Blazers](https://gamesheetstats.com/seasons/3659/teams/140652/schedule)|116|68|36|12|20|4|7|74.9|0.0
+7|6|Gold|[Igloo Jaguars 15U AA Elite](https://gamesheetstats.com/seasons/3659/teams/140645/schedule)|124|72|40|12|8|8|6|78.9|0.0
+8|4|Gold|[North Jersey Avalanche](https://gamesheetstats.com/seasons/3659/teams/140649/schedule)|92|36|48|8|8|4|229|40.9|0.0
+9|4|Silver|[VFC 15AA Scandone](https://gamesheetstats.com/seasons/3659/teams/140659/schedule)|124|60|50|14|8|16|160|67.9|0.0
+10|3|Silver|[RHC 15U AA](https://gamesheetstats.com/seasons/3659/teams/140655/schedule)|144|64|56|24|0|16|7|76.9|0.0
+11|3|Silver|[North Jersey Kings Yellow](https://gamesheetstats.com/seasons/3659/teams/140650/schedule)|96|44|48|4|4|0|15|46.9|0.0
+12|1|Silver|[Tri-City Eagles 15U Gold](https://gamesheetstats.com/seasons/3659/teams/140658/schedule)|52|24|16|12|0|0|2|30.9|0.0
+13|1||[Palmyra Black Knights](https://gamesheetstats.com/seasons/3659/teams/140678/schedule)|4|2|2|0|0|0|0|2.9|0.0
+14|1||[North Jersey Skylands Kings](https://gamesheetstats.com/seasons/3659/teams/140651/schedule)|92|20|68|4|0|4|32|22.9|0.0
+15|0||[York Devils](https://gamesheetstats.com/seasons/3659/teams/140660/schedule)|124|30|94|0|8|8|13|30.9|0.0
+16|0||[Lehigh Valley Phantoms Youth U15AA](https://gamesheetstats.com/seasons/3659/teams/140646/schedule)|134|32|102|0|0|4|5|32.9|0.0
+17|0||[Royals 15U AA Gold](https://gamesheetstats.com/seasons/3659/teams/140656/schedule)|126|8|118|0|8|0|6|8.9|0.0
 
 ## Predictions
 Uses KRACH ratings to predict winning percentage of each team (row) against each opponent (column).
-||Rebels 15U|Littleton Hawks|NJ Bandits 15AA|Rams Hockey|Team Philadelphia|Philadelphia Blazers|Igloo Jaguars 15U AA Elite|VFC 15AA Scandone|North Jersey Avalanche|RHC 15U AA|North Jersey Kings Yellow|Tri-City Eagles 15U Gold|North Jersey Skylands Kings|York Devils|Lehigh Valley Phantoms Youth U15AA|Royals 15U AA Gold
-| --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: 
-|Rebels 15U|--| 68%| 84%| 88%| 88%| 95%| 96%| 97%| 97%| 98%| 98%| 99%|100%|100%|100%|100%
-|Littleton Hawks| 32%|--| 71%| 77%| 78%| 91%| 92%| 94%| 94%| 95%| 96%| 97%| 99%| 99%| 99%|100%
-|NJ Bandits 15AA| 16%| 29%|--| 58%| 59%| 80%| 82%| 87%| 87%| 89%| 91%| 94%| 98%| 98%| 98%| 99%
-|Rams Hockey| 12%| 23%| 42%|--| 51%| 74%| 77%| 83%| 83%| 85%| 88%| 92%| 97%| 97%| 97%| 99%
-|Team Philadelphia| 12%| 22%| 41%| 49%|--| 73%| 76%| 83%| 83%| 85%| 87%| 92%| 97%| 97%| 97%| 99%
-|Philadelphia Blazers|  5%|  9%| 20%| 26%| 27%|--| 53%| 63%| 63%| 67%| 71%| 80%| 91%| 91%| 93%| 98%
-|Igloo Jaguars 15U AA Elite|  4%|  8%| 18%| 23%| 24%| 47%|--| 60%| 60%| 64%| 68%| 78%| 90%| 90%| 92%| 98%
-|VFC 15AA Scandone|  3%|  6%| 13%| 17%| 17%| 37%| 40%|--| 50%| 54%| 59%| 70%| 86%| 86%| 88%| 96%
-|North Jersey Avalanche|  3%|  6%| 13%| 17%| 17%| 37%| 40%| 50%|--| 54%| 59%| 70%| 86%| 86%| 88%| 96%
-|RHC 15U AA|  2%|  5%| 11%| 15%| 15%| 33%| 36%| 46%| 46%|--| 55%| 66%| 83%| 84%| 86%| 96%
-|North Jersey Kings Yellow|  2%|  4%|  9%| 12%| 13%| 29%| 32%| 41%| 41%| 45%|--| 62%| 81%| 81%| 84%| 95%
-|Tri-City Eagles 15U Gold|  1%|  3%|  6%|  8%|  8%| 20%| 22%| 30%| 30%| 34%| 38%|--| 72%| 72%| 76%| 92%
-|North Jersey Skylands Kings|  0%|  1%|  2%|  3%|  3%|  9%| 10%| 14%| 14%| 17%| 19%| 28%|--| 50%| 56%| 81%
-|York Devils|  0%|  1%|  2%|  3%|  3%|  9%| 10%| 14%| 14%| 16%| 19%| 28%| 50%|--| 55%| 81%
-|Lehigh Valley Phantoms Youth U15AA|  0%|  1%|  2%|  3%|  3%|  7%|  8%| 12%| 12%| 14%| 16%| 24%| 44%| 45%|--| 78%
-|Royals 15U AA Gold|  0%|  0%|  1%|  1%|  1%|  2%|  2%|  4%|  4%|  4%|  5%|  8%| 19%| 19%| 22%|--
+||Rebels 15U|Littleton Hawks|NJ Bandits 15AA|Team Philadelphia|Rams Hockey|Philadelphia Blazers|Igloo Jaguars 15U AA Elite|North Jersey Avalanche|VFC 15AA Scandone|RHC 15U AA|North Jersey Kings Yellow|Tri-City Eagles 15U Gold|Palmyra Black Knights|North Jersey Skylands Kings|York Devils|Lehigh Valley Phantoms Youth U15AA|Royals 15U AA Gold
+| --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: 
+|Rebels 15U|--| 68%| 88%| 91%| 91%| 97%| 97%| 98%| 98%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|Littleton Hawks| 32%|--| 77%| 82%| 83%| 94%| 95%| 96%| 97%| 97%| 98%| 99%| 99%| 99%| 99%|100%|100%
+|NJ Bandits 15AA| 12%| 23%|--| 58%| 59%| 82%| 84%| 89%| 89%| 91%| 92%| 96%| 98%| 98%| 98%| 99%|100%
+|Team Philadelphia|  9%| 18%| 42%|--| 51%| 77%| 79%| 85%| 86%| 88%| 89%| 94%| 97%| 98%| 98%| 98%|100%
+|Rams Hockey|  9%| 17%| 41%| 49%|--| 75%| 78%| 84%| 85%| 87%| 89%| 94%| 97%| 98%| 98%| 98%|100%
+|Philadelphia Blazers|  3%|  6%| 18%| 23%| 25%|--| 54%| 64%| 65%| 68%| 72%| 83%| 91%| 93%| 93%| 94%| 99%
+|Igloo Jaguars 15U AA Elite|  3%|  5%| 16%| 21%| 22%| 46%|--| 60%| 61%| 65%| 69%| 81%| 90%| 92%| 92%| 93%| 98%
+|North Jersey Avalanche|  2%|  4%| 11%| 15%| 16%| 36%| 40%|--| 51%| 55%| 60%| 73%| 86%| 88%| 88%| 90%| 97%
+|VFC 15AA Scandone|  2%|  3%| 11%| 14%| 15%| 35%| 39%| 49%|--| 54%| 58%| 72%| 85%| 87%| 88%| 90%| 97%
+|RHC 15U AA|  1%|  3%|  9%| 12%| 13%| 32%| 35%| 45%| 46%|--| 55%| 69%| 83%| 86%| 86%| 88%| 97%
+|North Jersey Kings Yellow|  1%|  2%|  8%| 11%| 11%| 28%| 31%| 40%| 42%| 45%|--| 65%| 80%| 83%| 84%| 86%| 96%
+|Tri-City Eagles 15U Gold|  1%|  1%|  4%|  6%|  6%| 17%| 19%| 27%| 28%| 31%| 35%|--| 68%| 73%| 73%| 77%| 93%
+|Palmyra Black Knights|  0%|  1%|  2%|  3%|  3%|  9%| 10%| 14%| 15%| 17%| 20%| 32%|--| 55%| 56%| 61%| 86%
+|North Jersey Skylands Kings|  0%|  1%|  2%|  2%|  2%|  7%|  8%| 12%| 13%| 14%| 17%| 27%| 45%|--| 51%| 56%| 84%
+|York Devils|  0%|  1%|  2%|  2%|  2%|  7%|  8%| 12%| 12%| 14%| 16%| 27%| 44%| 49%|--| 55%| 83%
+|Lehigh Valley Phantoms Youth U15AA|  0%|  0%|  1%|  2%|  2%|  6%|  7%| 10%| 10%| 12%| 14%| 23%| 39%| 44%| 45%|--| 80%
+|Royals 15U AA Gold|  0%|  0%|  0%|  0%|  0%|  1%|  2%|  3%|  3%|  3%|  4%|  7%| 14%| 16%| 17%| 20%|--
 
 ## Generation Details
 
