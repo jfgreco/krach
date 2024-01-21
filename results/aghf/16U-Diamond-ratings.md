@@ -1,26 +1,26 @@
 [<- back to the index](readme.md)
 # 16U Diamond KRACH Rankings
-Rankings generated on Sat Jan 20 07:03:00 2024.
+Rankings generated on Sun Jan 21 07:02:55 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|4527|Playoffs|[PTL Black](https://gamesheetstats.com/seasons/3663/teams/140833/schedule)|25|23|2|0|2|0|464|23.8|-0.0
+1|4529|Playoffs|[PTL Black](https://gamesheetstats.com/seasons/3663/teams/140833/schedule)|26|24|2|0|2|0|447|24.8|-0.0
 2|2105|Playoffs|[MassConn United Hockey Club](https://gamesheetstats.com/seasons/3663/teams/140835/schedule)|6|4|2|0|0|0|1637|4.8|-0.0
-3|1087|Playoffs|[NJ Bandits](https://gamesheetstats.com/seasons/3663/teams/140836/schedule)|26|18|6|2|0|2|844|19.8|-0.0
-4|517|Playoffs|[South Pittsburgh Rebellion Hammel](https://gamesheetstats.com/seasons/3663/teams/140839/schedule)|16|9|5|2|0|0|774|10.8|-0.0
-5|474|Playoffs|[Jr Flyers Smith](https://gamesheetstats.com/seasons/3663/teams/140837/schedule)|12|4|6|2|1|2|1458|5.8|-0.0
+3|1086|Playoffs|[NJ Bandits](https://gamesheetstats.com/seasons/3663/teams/140836/schedule)|26|18|6|2|0|2|844|19.8|-0.0
+4|516|Playoffs|[South Pittsburgh Rebellion Hammel](https://gamesheetstats.com/seasons/3663/teams/140839/schedule)|16|9|5|2|0|0|774|10.8|-0.0
+5|473|Playoffs|[Jr Flyers Smith](https://gamesheetstats.com/seasons/3663/teams/140837/schedule)|12|4|6|2|1|2|1458|5.8|-0.0
 6|445|Playoffs|[CT Polar Bears](https://gamesheetstats.com/seasons/3663/teams/140834/schedule)|12|5|6|1|0|0|1161|6.3|-0.0
 7|276||[MYHA](https://gamesheetstats.com/seasons/3663/teams/140838/schedule)|17|10|7|0|0|0|759|10.9|0.0
 8|112||[CT Ice Cats](https://gamesheetstats.com/seasons/3663/teams/140846/schedule)|17|8|9|0|0|1|671|8.9|0.0
 9|109||[PTL Orange](https://gamesheetstats.com/seasons/3663/teams/140842/schedule)|24|13|8|3|1|0|157|15.4|0.0
-10|95||[STJ](https://gamesheetstats.com/seasons/3663/teams/140841/schedule)|25|10|13|2|0|1|1043|11.9|0.0
+10|95||[STJ](https://gamesheetstats.com/seasons/3663/teams/140841/schedule)|25|10|13|2|0|1|1044|11.9|0.0
 11|73||[Twin Rinks Eisenhower Youth](https://gamesheetstats.com/seasons/3663/teams/140847/schedule)|26|13|11|2|3|0|143|14.9|0.0
 12|70||[Jr Flyers Sakers](https://gamesheetstats.com/seasons/3663/teams/140843/schedule)|15|8|6|1|2|0|120|9.4|0.0
 13|39||[Maryland Jr. Blackbears](https://gamesheetstats.com/seasons/3663/teams/140848/schedule)|7|3|4|0|0|1|659|3.9|0.0
 14|22||[York Lady Devils](https://gamesheetstats.com/seasons/3663/teams/140845/schedule)|20|6|11|3|0|2|289|8.4|0.0
 15|16||[Stateline Hawks](https://gamesheetstats.com/seasons/3663/teams/140840/schedule)|18|3|14|1|0|1|915|4.4|0.0
 16|12||[Reston Raiders](https://gamesheetstats.com/seasons/3663/teams/140850/schedule)|8|2|5|1|1|0|38|3.4|0.0
-17|9||[LVPY](https://gamesheetstats.com/seasons/3663/teams/140844/schedule)|21|5|16|0|0|0|142|5.9|0.0
+17|9||[LVPY](https://gamesheetstats.com/seasons/3663/teams/140844/schedule)|22|5|17|0|0|0|333|5.9|0.0
 18|4||[Skyland Lady Kings](https://gamesheetstats.com/seasons/3663/teams/140849/schedule)|5|0|5|0|0|0|64|0.9|0.0
 19|3||[New York Islanders 2](https://gamesheetstats.com/seasons/3663/teams/140851/schedule)|10|1|9|0|0|0|62|1.9|0.0
 
@@ -58,7 +58,7 @@ Generated with command line:
 | Option | Value |
 | :----- | ----: |
 | Start Date | 2023-09-09 |
-| End Date | 2024-01-07 |
+| End Date | 2024-01-20 |
 | Max Iterations | 200 |
 | Max Ratings Diff | 1e-05 |
 | Shootout Win Value | 1.00 |

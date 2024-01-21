@@ -1,30 +1,30 @@
 [<- back to the index](readme.md)
 # 10U KRACH Rankings
-Rankings generated on Sat Jan 20 07:03:00 2024.
+Rankings generated on Sun Jan 21 07:02:55 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|965|Playoffs|[Jr Flyers Cardillo](https://gamesheetstats.com/seasons/3663/teams/140794/schedule)|12|11|1|0|1|0|101|11.9|0.0
-2|955|Playoffs|[NJ Bandits](https://gamesheetstats.com/seasons/3663/teams/140807/schedule)|3|2|0|1|0|0|276|3.3|-0.0
-3|941|Playoffs|[PTL](https://gamesheetstats.com/seasons/3663/teams/140791/schedule)|16|13|2|1|1|1|464|14.3|-0.0
-4|285|Playoffs|[Royals](https://gamesheetstats.com/seasons/3663/teams/140796/schedule)|12|8|4|0|2|0|276|8.9|0.0
-5|135||[STJ](https://gamesheetstats.com/seasons/3663/teams/140792/schedule)|17|5|12|0|0|2|593|5.9|0.0
-6|122||[CP Dynamo](https://gamesheetstats.com/seasons/3663/teams/140795/schedule)|9|5|4|0|0|1|251|5.9|0.0
-7|62||[New York Islanders](https://gamesheetstats.com/seasons/3663/teams/140793/schedule)|17|6|11|0|0|1|382|6.9|0.0
-8|13||[LVPY](https://gamesheetstats.com/seasons/3663/teams/140790/schedule)|20|1|19|0|1|0|444|1.9|0.0
+1|1052|Playoffs|[PTL](https://gamesheetstats.com/seasons/3663/teams/140791/schedule)|17|14|2|1|1|1|488|15.3|-0.0
+2|965|Playoffs|[NJ Bandits](https://gamesheetstats.com/seasons/3663/teams/140807/schedule)|3|2|0|1|0|0|296|3.3|-0.0
+3|562|Playoffs|[Jr Flyers Cardillo](https://gamesheetstats.com/seasons/3663/teams/140794/schedule)|13|11|2|0|1|0|150|11.9|0.0
+4|224|Playoffs|[Royals](https://gamesheetstats.com/seasons/3663/teams/140796/schedule)|12|8|4|0|2|0|212|8.9|0.0
+5|109||[STJ](https://gamesheetstats.com/seasons/3663/teams/140792/schedule)|17|5|12|0|0|2|511|5.9|0.0
+6|102||[CP Dynamo](https://gamesheetstats.com/seasons/3663/teams/140795/schedule)|9|5|4|0|0|1|251|5.9|0.0
+7|51||[New York Islanders](https://gamesheetstats.com/seasons/3663/teams/140793/schedule)|17|6|11|0|0|1|349|6.9|0.0
+8|11||[LVPY](https://gamesheetstats.com/seasons/3663/teams/140790/schedule)|20|1|19|0|1|0|368|1.9|0.0
 
 ## Predictions
 Uses KRACH ratings to predict winning percentage of each team (row) against each opponent (column).
-||Jr Flyers Cardillo|NJ Bandits|PTL|Royals|STJ|CP Dynamo|New York Islanders|LVPY
+||PTL|NJ Bandits|Jr Flyers Cardillo|Royals|STJ|CP Dynamo|New York Islanders|LVPY
 | --: | --: | --: | --: | --: | --: | --: | --: | --: 
-|Jr Flyers Cardillo|--| 50%| 51%| 77%| 88%| 89%| 94%| 99%
-|NJ Bandits| 50%|--| 50%| 77%| 88%| 89%| 94%| 99%
-|PTL| 49%| 50%|--| 77%| 87%| 89%| 94%| 99%
-|Royals| 23%| 23%| 23%|--| 68%| 70%| 82%| 96%
-|STJ| 12%| 12%| 13%| 32%|--| 53%| 69%| 91%
-|CP Dynamo| 11%| 11%| 11%| 30%| 47%|--| 66%| 90%
-|New York Islanders|  6%|  6%|  6%| 18%| 31%| 34%|--| 82%
-|LVPY|  1%|  1%|  1%|  4%|  9%| 10%| 18%|--
+|PTL|--| 52%| 65%| 82%| 91%| 91%| 95%| 99%
+|NJ Bandits| 48%|--| 63%| 81%| 90%| 90%| 95%| 99%
+|Jr Flyers Cardillo| 35%| 37%|--| 72%| 84%| 85%| 92%| 98%
+|Royals| 18%| 19%| 28%|--| 67%| 69%| 81%| 95%
+|STJ|  9%| 10%| 16%| 33%|--| 52%| 68%| 91%
+|CP Dynamo|  9%| 10%| 15%| 31%| 48%|--| 67%| 90%
+|New York Islanders|  5%|  5%|  8%| 19%| 32%| 33%|--| 82%
+|LVPY|  1%|  1%|  2%|  5%|  9%| 10%| 18%|--
 
 ## Generation Details
 
@@ -36,7 +36,7 @@ Generated with command line:
 | Option | Value |
 | :----- | ----: |
 | Start Date | 2023-09-09 |
-| End Date | 2024-01-07 |
+| End Date | 2024-01-20 |
 | Max Iterations | 200 |
 | Max Ratings Diff | 1e-05 |
 | Shootout Win Value | 1.00 |
