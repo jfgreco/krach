@@ -1,10 +1,10 @@
 [<- back to the index](readme.md)
 # 10U McDavid KRACH Rankings
-Rankings generated on Tue Jan 30 07:02:39 2024.
+Rankings generated on Wed Jan 31 07:03:26 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|7606|Championship|[North Jersey Avalanche Gold](https://gamesheetstats.com/seasons/3659/teams/140417/schedule)|18|18|0|0|0|0|98|18.8|-0.1
+1|7605|Championship|[North Jersey Avalanche Gold](https://gamesheetstats.com/seasons/3659/teams/140417/schedule)|18|18|0|0|0|0|98|18.8|-0.1
 2|699|Championship|[PAL Sound Tigers](https://gamesheetstats.com/seasons/3659/teams/140420/schedule)|19|17|2|0|0|0|113|17.8|-0.0
 3|421|Championship|[NJ Bandits 10B Red](https://gamesheetstats.com/seasons/3659/teams/140415/schedule)|33|26|7|0|0|0|985|26.8|-0.0
 4|347|Championship|[Grundy Senators Ebert](https://gamesheetstats.com/seasons/3659/teams/140403/schedule)|31|27|4|0|1|0|93|27.8|-0.0
@@ -14,12 +14,12 @@ Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 8|170|Gold|[Mercer Chiefs Red](https://gamesheetstats.com/seasons/3659/teams/140414/schedule)|32|27|4|1|0|2|285|28.3|-0.0
 9|73|Silver|[Philadelphia Jr Flyers Kaminsky](https://gamesheetstats.com/seasons/3659/teams/140423/schedule)|13|7|5|1|0|0|133|8.4|0.0
 10|24|Silver|[Haverford Hawks 10UB Black](https://gamesheetstats.com/seasons/3659/teams/140405/schedule)|34|20|14|0|0|1|74|20.9|0.0
-11|22|Silver|[Wissahickon Warriors White](https://gamesheetstats.com/seasons/3659/teams/141148/schedule)|33|21|12|0|2|0|60|21.9|0.0
+11|22|Silver|[Wissahickon Warriors White](https://gamesheetstats.com/seasons/3659/teams/141148/schedule)|33|21|12|0|2|0|61|21.9|0.0
 12|12|Silver|[Hollydell Hurricanes Red](https://gamesheetstats.com/seasons/3659/teams/140407/schedule)|32|14|17|1|0|1|106|15.4|0.0
 13|11|Bronze|[Southern Maryland Sabres 10U Black](https://gamesheetstats.com/seasons/3659/teams/141152/schedule)|16|7|8|1|0|0|65|8.4|0.0
 14|8|Bronze|[10U TI North Stars White](https://gamesheetstats.com/seasons/3659/teams/140400/schedule)|16|9|6|1|0|0|65|10.4|0.0
 15|7|Bronze|[Long Island Whalers Squirt Green](https://gamesheetstats.com/seasons/3659/teams/140413/schedule)|16|9|7|0|0|0|169|9.9|0.0
-16|6|Bronze|[Palmyra Black Knights- Frey](https://gamesheetstats.com/seasons/3659/teams/140422/schedule)|32|16|14|2|1|1|53|17.9|0.0
+16|6|Bronze|[Palmyra Black Knights- Frey](https://gamesheetstats.com/seasons/3659/teams/140422/schedule)|33|17|14|2|1|1|52|18.9|0.0
 17|4||[Team Philadelphia](https://gamesheetstats.com/seasons/3659/teams/141147/schedule)|32|19|12|1|0|2|41|20.4|0.0
 18|2||[Jersey Colts Squirt Green](https://gamesheetstats.com/seasons/3659/teams/140410/schedule)|32|14|17|1|0|1|538|15.4|0.0
 19|2||[North Jersey Kings Yellow](https://gamesheetstats.com/seasons/3659/teams/140418/schedule)|30|12|18|0|2|0|842|12.9|0.0
@@ -35,7 +35,7 @@ Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 29|0||[Royals 10U Red](https://gamesheetstats.com/seasons/3659/teams/143704/schedule)|4|1|3|0|0|0|1|1.9|0.0
 30|0||[Hollydell Hurricanes White](https://gamesheetstats.com/seasons/3659/teams/140408/schedule)|32|6|25|1|1|0|38|7.4|0.0
 31|0||[Haverford Hawks 10UB Red](https://gamesheetstats.com/seasons/3659/teams/140406/schedule)|33|4|29|0|0|1|66|4.9|0.0
-32|0||[Grundy Senators Schafer](https://gamesheetstats.com/seasons/3659/teams/140404/schedule)|29|2|27|0|0|1|23|2.9|0.0
+32|0||[Grundy Senators Schafer](https://gamesheetstats.com/seasons/3659/teams/140404/schedule)|30|2|28|0|0|1|22|2.9|0.0
 33|0||[Royals 10U Orange](https://gamesheetstats.com/seasons/3659/teams/143705/schedule)|4|0|4|0|0|0|1|0.9|0.0
 
 ## Predictions
@@ -62,9 +62,9 @@ Uses KRACH ratings to predict winning percentage of each team (row) against each
 |Jersey Colts Squirt Green|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  1%|  3%|  9%| 10%| 17%| 18%| 24%| 25%| 28%| 36%|--| 55%| 59%| 59%| 63%| 70%| 71%| 76%| 82%| 89%| 95%| 95%| 97%| 99%| 99%| 99%
 |North Jersey Kings Yellow|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  3%|  8%|  9%| 14%| 15%| 21%| 22%| 25%| 32%| 45%|--| 54%| 54%| 58%| 66%| 67%| 72%| 79%| 87%| 93%| 93%| 97%| 98%| 99%| 99%
 |Royals 10U Gold|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  2%|  7%|  7%| 12%| 13%| 18%| 19%| 22%| 29%| 41%| 46%|--| 50%| 54%| 62%| 64%| 68%| 77%| 86%| 92%| 92%| 96%| 98%| 99%| 99%
-|North Jersey Skylands Kings White|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  2%|  6%|  7%| 12%| 13%| 18%| 19%| 21%| 28%| 41%| 46%| 50%|--| 54%| 62%| 63%| 68%| 76%| 85%| 92%| 92%| 96%| 98%| 99%| 99%
+|North Jersey Skylands Kings White|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  2%|  6%|  7%| 12%| 13%| 18%| 19%| 21%| 28%| 41%| 46%| 50%|--| 54%| 61%| 63%| 68%| 76%| 85%| 92%| 92%| 96%| 98%| 99%| 99%
 |Wildcats 10U B|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  2%|  6%|  6%| 11%| 12%| 16%| 17%| 19%| 25%| 37%| 42%| 46%| 46%|--| 58%| 60%| 65%| 74%| 83%| 91%| 91%| 96%| 98%| 98%| 99%
-|VFC Squirt Jones|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  4%|  5%|  8%|  9%| 12%| 13%| 15%| 20%| 30%| 34%| 38%| 38%| 42%|--| 52%| 57%| 67%| 78%| 88%| 88%| 94%| 97%| 98%| 98%
+|VFC Squirt Jones|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  4%|  5%|  8%|  9%| 12%| 13%| 15%| 20%| 30%| 34%| 38%| 39%| 42%|--| 52%| 57%| 67%| 78%| 88%| 88%| 94%| 97%| 98%| 98%
 |JR Black Bears10U Black|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  4%|  4%|  7%|  8%| 11%| 12%| 14%| 19%| 29%| 33%| 36%| 37%| 40%| 48%|--| 55%| 65%| 77%| 87%| 87%| 94%| 97%| 98%| 98%
 |Delaware Ducks|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  3%|  4%|  6%|  7%|  9%| 10%| 11%| 16%| 24%| 28%| 32%| 32%| 35%| 43%| 45%|--| 60%| 73%| 85%| 85%| 92%| 96%| 97%| 97%
 |VFC Squirt Johnson|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  2%|  2%|  4%|  4%|  6%|  7%|  8%| 11%| 18%| 21%| 23%| 24%| 26%| 33%| 35%| 40%|--| 64%| 79%| 79%| 89%| 94%| 96%| 96%

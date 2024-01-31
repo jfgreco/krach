@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 9U AA KRACH Rankings
-Rankings generated on Tue Jan 30 07:02:39 2024.
+Rankings generated on Wed Jan 31 07:03:26 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
@@ -18,8 +18,8 @@ Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 12|28|Silver|[Royals 9U AA White](https://gamesheetstats.com/seasons/3659/teams/140225/schedule)|35|19|15|1|0|0|120|20.4|0.0
 13|24||[Team Philadelphia](https://gamesheetstats.com/seasons/3659/teams/140226/schedule)|46|17|28|1|2|1|743|18.4|0.0
 14|15||[Hartford Jr. Wolf Pack 2014 AHF](https://gamesheetstats.com/seasons/3659/teams/140219/schedule)|12|6|6|0|0|0|130|6.9|0.0
-15|9||[Arrows 10u Silver](https://gamesheetstats.com/seasons/3659/teams/140216/schedule)|24|9|14|1|2|0|146|10.4|0.0
-16|7||[Hollydell Hurricanes](https://gamesheetstats.com/seasons/3659/teams/140220/schedule)|36|11|23|2|0|1|97|12.9|0.0
+15|9||[Arrows 10u Silver](https://gamesheetstats.com/seasons/3659/teams/140216/schedule)|24|9|14|1|1|0|146|10.4|0.0
+16|7||[Hollydell Hurricanes](https://gamesheetstats.com/seasons/3659/teams/140220/schedule)|36|11|23|2|0|0|97|12.9|0.0
 17|6||[RHC Squirt A](https://gamesheetstats.com/seasons/3659/teams/140261/schedule)|7|2|5|0|0|0|17|2.9|0.0
 18|5||[Wilkes-Barre / Scranton Jr Knights](https://gamesheetstats.com/seasons/3659/teams/140228/schedule)|37|6|30|1|0|1|829|7.4|0.0
 19|1||[RHC Squirt Minor AA](https://gamesheetstats.com/seasons/3659/teams/140224/schedule)|36|1|35|0|0|1|115|1.9|0.0
