@@ -27,4 +27,4 @@ Click below to see KRACH ratings for each division
 | [18U A](18U-A-ratings.md) | 2023-08-20 | 2024-02-04 |
 | [18U AA](18U-AA-ratings.md) | 2023-08-25 | 2024-02-04 |
 
-Generated on 2024-02-08 07:03:17.835576.
+Generated on 2024-02-09 07:02:39.722351.
