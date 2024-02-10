@@ -16,7 +16,7 @@ Click below to see KRACH ratings for each division
 | [12U Lemieux](12U-Lemieux-ratings.md) | 2023-08-26 | 2024-02-04 |
 | [12U McDavid](12U-McDavid-ratings.md) | 2023-08-26 | 2024-02-04 |
 | [13U AA](13U-AA-ratings.md) | 2023-08-26 | 2024-02-04 |
-| [14U AA](14U-AA-ratings.md) | 2023-08-26 | 2024-02-04 |
+| [14U AA](14U-AA-ratings.md) | 2023-08-26 | 2024-02-09 |
 | [14U Gretzky](14U-Gretzky-ratings.md) | 2023-08-25 | 2024-02-04 |
 | [14U Lemieux](14U-Lemieux-ratings.md) | 2023-08-26 | 2024-02-04 |
 | [14U McDavid](14U-McDavid-ratings.md) | 2023-08-26 | 2024-02-04 |
@@ -27,4 +27,4 @@ Click below to see KRACH ratings for each division
 | [18U A](18U-A-ratings.md) | 2023-08-20 | 2024-02-04 |
 | [18U AA](18U-AA-ratings.md) | 2023-08-25 | 2024-02-04 |
 
-Generated on 2024-02-09 07:02:39.722351.
+Generated on 2024-02-10 07:02:36.066710.
