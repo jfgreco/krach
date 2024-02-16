@@ -12,6 +12,6 @@ Click below to see KRACH ratings for each division
 | [14U 2009](14U-2009-ratings.md) | 2023-08-26 | 2024-02-11 |
 | [15U 2008](15U-2008-ratings.md) | 2023-09-02 | 2024-02-11 |
 | [16U](16U-ratings.md) | 2023-08-25 | 2024-02-14 |
-| [18U](18U-ratings.md) | 2023-08-25 | 2024-02-14 |
+| [18U](18U-ratings.md) | 2023-08-25 | 2024-02-15 |
 
-Generated on 2024-02-15 07:02:44.534515.
+Generated on 2024-02-16 07:02:42.654984.
