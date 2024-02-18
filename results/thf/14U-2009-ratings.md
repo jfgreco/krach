@@ -1,74 +1,74 @@
 [<- back to the index](readme.md)
 # 14U 2009 KRACH Rankings
-Rankings generated on Sat Feb 17 07:02:43 2024.
+Rankings generated on Sun Feb 18 07:02:48 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|4394|Super 6|[Sioux Falls Power Hockey](https://gamesheetstats.com/seasons/3664/teams/140999/schedule)|3|3|0|0|0|0|192|3.8|-0.0
-2|924|Super 6|[Pittsburgh Predators](https://gamesheetstats.com/seasons/3664/teams/140995/schedule)|12|12|0|0|0|0|12|12.8|-0.0
-3|699|Super 6|[Team North Dakota](https://gamesheetstats.com/seasons/3664/teams/141001/schedule)|4|3|1|0|0|0|926|3.8|-0.0
-4|684|Super 6|[RHC Bantam Major Premier](https://gamesheetstats.com/seasons/3664/teams/140984/schedule)|10|8|1|1|0|0|131|9.4|0.0
-5|463|Super 6|[South Hills Panthers](https://gamesheetstats.com/seasons/3664/teams/160166/schedule)|4|4|0|0|0|0|15|4.9|0.0
-6|223|Super 6|[PAL Jr Islanders](https://gamesheetstats.com/seasons/3664/teams/140990/schedule)|23|15|7|1|0|0|219|16.4|0.0
-7|188|Frozen 4|[CT Jr Rangers Elite 2009](https://gamesheetstats.com/seasons/3664/teams/140980/schedule)|21|15|4|2|1|0|112|16.9|0.0
-8|168|Frozen 4|[Oakmoor Patriots](https://gamesheetstats.com/seasons/3664/teams/141002/schedule)|3|2|1|0|1|0|192|2.8|-0.0
-9|53|Frozen 4|[Westchester Express 09's](https://gamesheetstats.com/seasons/3664/teams/140992/schedule)|21|12|8|1|2|1|106|13.4|0.0
-10|47|Frozen 4|[Hartford Jr Wolfpack 2009](https://gamesheetstats.com/seasons/3664/teams/140979/schedule)|25|13|10|2|1|0|67|14.9|0.0
-11|38||[Biggby Coffee AAA](https://gamesheetstats.com/seasons/3664/teams/144343/schedule)|12|5|7|0|0|1|471|5.9|0.0
-12|36||[CP Dynamo 2009](https://gamesheetstats.com/seasons/3664/teams/140991/schedule)|16|9|7|0|0|1|49|9.9|0.0
-13|35||[RHC Bantam Major Elite Sorg](https://gamesheetstats.com/seasons/3664/teams/140985/schedule)|12|5|7|0|0|0|85|5.9|0.0
-14|30||[Team Maryland](https://gamesheetstats.com/seasons/3664/teams/140998/schedule)|18|5|12|1|0|0|248|6.4|0.0
-15|29||[Rocky Mountain RoughRiders](https://gamesheetstats.com/seasons/3664/teams/144346/schedule)|16|7|9|0|0|1|348|7.9|0.0
-16|27||[Arrows 14u AAA Major](https://gamesheetstats.com/seasons/3664/teams/140993/schedule)|27|21|6|0|0|0|17|21.9|0.0
-17|26||[Indiana Elite](https://gamesheetstats.com/seasons/3664/teams/144344/schedule)|8|4|3|1|0|0|22|5.4|0.0
-18|14||[Palmyra Black Knights](https://gamesheetstats.com/seasons/3664/teams/140997/schedule)|28|11|16|1|0|1|158|12.4|0.0
+1|4423|Super 6|[Sioux Falls Power Hockey](https://gamesheetstats.com/seasons/3664/teams/140999/schedule)|3|3|0|0|0|0|193|3.8|-0.0
+2|844|Super 6|[Pittsburgh Predators](https://gamesheetstats.com/seasons/3664/teams/140995/schedule)|12|12|0|0|0|0|11|12.8|-0.0
+3|735|Super 6|[RHC Bantam Major Premier](https://gamesheetstats.com/seasons/3664/teams/140984/schedule)|12|10|1|1|0|0|116|11.4|0.0
+4|703|Super 6|[Team North Dakota](https://gamesheetstats.com/seasons/3664/teams/141001/schedule)|4|3|1|0|0|0|932|3.8|-0.0
+5|467|Super 6|[South Hills Panthers](https://gamesheetstats.com/seasons/3664/teams/160166/schedule)|4|4|0|0|0|0|15|4.9|0.0
+6|222|Super 6|[PAL Jr Islanders](https://gamesheetstats.com/seasons/3664/teams/140990/schedule)|23|15|7|1|0|0|226|16.4|0.0
+7|184|Frozen 4|[CT Jr Rangers Elite 2009](https://gamesheetstats.com/seasons/3664/teams/140980/schedule)|21|15|4|2|1|0|116|16.9|0.0
+8|169|Frozen 4|[Oakmoor Patriots](https://gamesheetstats.com/seasons/3664/teams/141002/schedule)|3|2|1|0|1|0|193|2.8|-0.0
+9|50|Frozen 4|[Westchester Express 09's](https://gamesheetstats.com/seasons/3664/teams/140992/schedule)|23|12|10|1|2|1|162|13.4|0.0
+10|49|Frozen 4|[Hartford Jr Wolfpack 2009](https://gamesheetstats.com/seasons/3664/teams/140979/schedule)|25|13|10|2|1|0|68|14.9|0.0
+11|45||[CP Dynamo 2009](https://gamesheetstats.com/seasons/3664/teams/140991/schedule)|18|11|7|0|0|1|46|11.9|0.0
+12|38||[Biggby Coffee AAA](https://gamesheetstats.com/seasons/3664/teams/144343/schedule)|12|5|7|0|0|1|475|5.9|0.0
+13|33||[RHC Bantam Major Elite Sorg](https://gamesheetstats.com/seasons/3664/teams/140985/schedule)|12|5|7|0|0|0|83|5.9|0.0
+14|29||[Rocky Mountain RoughRiders](https://gamesheetstats.com/seasons/3664/teams/144346/schedule)|16|7|9|0|0|1|350|7.9|0.0
+15|27||[Arrows 14u AAA Major](https://gamesheetstats.com/seasons/3664/teams/140993/schedule)|27|21|6|0|0|0|17|21.9|0.0
+16|26||[Indiana Elite](https://gamesheetstats.com/seasons/3664/teams/144344/schedule)|8|4|3|1|0|0|22|5.4|0.0
+17|23||[Team Maryland](https://gamesheetstats.com/seasons/3664/teams/140998/schedule)|20|5|14|1|0|0|225|6.4|0.0
+18|14||[Palmyra Black Knights](https://gamesheetstats.com/seasons/3664/teams/140997/schedule)|28|11|16|1|0|1|148|12.4|0.0
 19|13||[Tri-State Spartans 14U](https://gamesheetstats.com/seasons/3664/teams/144345/schedule)|8|3|4|1|0|0|20|4.4|0.0
 20|11||[Wolfpack Hockey 2009](https://gamesheetstats.com/seasons/3664/teams/140986/schedule)|18|9|9|0|1|1|31|9.9|0.0
 21|11||[Revolution Elite 2009](https://gamesheetstats.com/seasons/3664/teams/140996/schedule)|22|8|13|1|0|0|42|9.4|0.0
-22|10||[Mercer Chiefs 2009](https://gamesheetstats.com/seasons/3664/teams/140987/schedule)|28|11|15|2|1|2|75|12.9|0.0
-23|8||[San Jose Jr Sharks](https://gamesheetstats.com/seasons/3664/teams/141003/schedule)|4|1|3|0|0|0|103|1.9|0.0
-24|8||[Utica Jr. Comets](https://gamesheetstats.com/seasons/3664/teams/140994/schedule)|19|9|10|0|0|1|102|9.9|0.0
+22|10||[Mercer Chiefs 2009](https://gamesheetstats.com/seasons/3664/teams/140987/schedule)|28|11|15|2|1|2|72|12.9|0.0
+23|8||[San Jose Jr Sharks](https://gamesheetstats.com/seasons/3664/teams/141003/schedule)|4|1|3|0|0|0|104|1.9|0.0
+24|8||[Utica Jr. Comets](https://gamesheetstats.com/seasons/3664/teams/140994/schedule)|19|9|10|0|0|1|95|9.9|0.0
 25|8||[CT Chiefs 14U](https://gamesheetstats.com/seasons/3664/teams/140982/schedule)|20|10|10|0|2|0|12|10.9|0.0
-26|3||[Mid Fairfield (Independent) 09 AAA](https://gamesheetstats.com/seasons/3664/teams/140981/schedule)|23|5|16|2|2|3|16|6.9|0.0
-27|3||[RHC Bantam Major Elite Raykin](https://gamesheetstats.com/seasons/3664/teams/140989/schedule)|13|3|10|0|1|0|77|3.9|0.0
+26|3||[Mid Fairfield (Independent) 09 AAA](https://gamesheetstats.com/seasons/3664/teams/140981/schedule)|23|5|16|2|2|3|15|6.9|0.0
+27|3||[RHC Bantam Major Elite Raykin](https://gamesheetstats.com/seasons/3664/teams/140989/schedule)|13|3|10|0|1|0|71|3.9|0.0
 28|3||[Cyclones Academy](https://gamesheetstats.com/seasons/3664/teams/140978/schedule)|12|2|10|0|0|0|17|2.9|0.0
-29|2||[Jersey Hitmen](https://gamesheetstats.com/seasons/3664/teams/140988/schedule)|19|2|16|1|0|0|105|3.4|0.0
+29|2||[Jersey Hitmen](https://gamesheetstats.com/seasons/3664/teams/140988/schedule)|19|2|16|1|0|0|97|3.4|0.0
 30|1||[CT Jr Rangers Tier 1- AAA 2009](https://gamesheetstats.com/seasons/3664/teams/140983/schedule)|5|0|5|0|0|0|13|0.9|0.0
 
 ## Predictions
 Uses KRACH ratings to predict winning percentage of each team (row) against each opponent (column).
-||Sioux Falls Power Hockey|Pittsburgh Predators|Team North Dakota|RHC Bantam Major Premier|South Hills Panthers|PAL Jr Islanders|CT Jr Rangers Elite 2009|Oakmoor Patriots|Westchester Express 09's|Hartford Jr Wolfpack 2009|Biggby Coffee AAA|CP Dynamo 2009|RHC Bantam Major Elite Sorg|Team Maryland|Rocky Mountain RoughRiders|Arrows 14u AAA Major|Indiana Elite|Palmyra Black Knights|Tri-State Spartans 14U|Wolfpack Hockey 2009|Revolution Elite 2009|Mercer Chiefs 2009|San Jose Jr Sharks|Utica Jr. Comets|CT Chiefs 14U|Mid Fairfield (Independent) 09 AAA|RHC Bantam Major Elite Raykin|Cyclones Academy|Jersey Hitmen|CT Jr Rangers Tier 1- AAA 2009
+||Sioux Falls Power Hockey|Pittsburgh Predators|RHC Bantam Major Premier|Team North Dakota|South Hills Panthers|PAL Jr Islanders|CT Jr Rangers Elite 2009|Oakmoor Patriots|Westchester Express 09's|Hartford Jr Wolfpack 2009|CP Dynamo 2009|Biggby Coffee AAA|RHC Bantam Major Elite Sorg|Rocky Mountain RoughRiders|Arrows 14u AAA Major|Indiana Elite|Team Maryland|Palmyra Black Knights|Tri-State Spartans 14U|Wolfpack Hockey 2009|Revolution Elite 2009|Mercer Chiefs 2009|San Jose Jr Sharks|Utica Jr. Comets|CT Chiefs 14U|Mid Fairfield (Independent) 09 AAA|RHC Bantam Major Elite Raykin|Cyclones Academy|Jersey Hitmen|CT Jr Rangers Tier 1- AAA 2009
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: 
-|Sioux Falls Power Hockey|--| 83%| 86%| 87%| 90%| 95%| 96%| 96%| 99%| 99%| 99%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%
-|Pittsburgh Predators| 17%|--| 57%| 57%| 67%| 81%| 83%| 85%| 95%| 95%| 96%| 96%| 96%| 97%| 97%| 97%| 97%| 99%| 99%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
-|Team North Dakota| 14%| 43%|--| 51%| 60%| 76%| 79%| 81%| 93%| 94%| 95%| 95%| 95%| 96%| 96%| 96%| 96%| 98%| 98%| 98%| 98%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
-|RHC Bantam Major Premier| 13%| 43%| 49%|--| 60%| 75%| 78%| 80%| 93%| 94%| 95%| 95%| 95%| 96%| 96%| 96%| 96%| 98%| 98%| 98%| 98%| 98%| 99%| 99%| 99%|100%|100%|100%|100%|100%
-|South Hills Panthers| 10%| 33%| 40%| 40%|--| 67%| 71%| 73%| 90%| 91%| 92%| 93%| 93%| 94%| 94%| 94%| 95%| 97%| 97%| 98%| 98%| 98%| 98%| 98%| 98%| 99%| 99%| 99%|100%|100%
-|PAL Jr Islanders|  5%| 19%| 24%| 25%| 33%|--| 54%| 57%| 81%| 83%| 86%| 86%| 86%| 88%| 89%| 89%| 90%| 94%| 95%| 95%| 95%| 96%| 96%| 96%| 96%| 99%| 99%| 99%| 99%|100%
-|CT Jr Rangers Elite 2009|  4%| 17%| 21%| 22%| 29%| 46%|--| 53%| 78%| 80%| 83%| 84%| 84%| 86%| 87%| 87%| 88%| 93%| 94%| 94%| 95%| 95%| 96%| 96%| 96%| 98%| 98%| 99%| 99%| 99%
-|Oakmoor Patriots|  4%| 15%| 19%| 20%| 27%| 43%| 47%|--| 76%| 78%| 82%| 82%| 83%| 85%| 85%| 86%| 87%| 92%| 93%| 94%| 94%| 94%| 95%| 95%| 95%| 98%| 98%| 98%| 99%| 99%
-|Westchester Express 09's|  1%|  5%|  7%|  7%| 10%| 19%| 22%| 24%|--| 53%| 58%| 59%| 60%| 63%| 65%| 66%| 67%| 79%| 80%| 83%| 83%| 83%| 86%| 86%| 87%| 94%| 94%| 95%| 97%| 98%
-|Hartford Jr Wolfpack 2009|  1%|  5%|  6%|  6%|  9%| 17%| 20%| 22%| 47%|--| 56%| 56%| 57%| 61%| 62%| 64%| 64%| 77%| 78%| 81%| 81%| 82%| 85%| 85%| 85%| 93%| 93%| 95%| 96%| 98%
-|Biggby Coffee AAA|  1%|  4%|  5%|  5%|  8%| 14%| 17%| 18%| 42%| 44%|--| 51%| 52%| 55%| 57%| 58%| 59%| 73%| 75%| 77%| 78%| 78%| 82%| 82%| 82%| 92%| 92%| 93%| 95%| 97%
-|CP Dynamo 2009|  1%|  4%|  5%|  5%|  7%| 14%| 16%| 18%| 41%| 44%| 49%|--| 51%| 54%| 56%| 57%| 58%| 73%| 74%| 77%| 77%| 78%| 81%| 82%| 82%| 92%| 92%| 93%| 95%| 97%
-|RHC Bantam Major Elite Sorg|  1%|  4%|  5%|  5%|  7%| 14%| 16%| 17%| 40%| 43%| 48%| 49%|--| 53%| 55%| 56%| 57%| 72%| 73%| 76%| 76%| 77%| 81%| 81%| 81%| 91%| 91%| 93%| 95%| 97%
-|Team Maryland|  1%|  3%|  4%|  4%|  6%| 12%| 14%| 15%| 37%| 39%| 45%| 46%| 47%|--| 52%| 53%| 54%| 69%| 70%| 74%| 74%| 75%| 78%| 79%| 79%| 90%| 90%| 92%| 94%| 97%
-|Rocky Mountain RoughRiders|  1%|  3%|  4%|  4%|  6%| 11%| 13%| 15%| 35%| 38%| 43%| 44%| 45%| 48%|--| 51%| 52%| 68%| 69%| 72%| 73%| 73%| 77%| 78%| 78%| 89%| 90%| 91%| 94%| 96%
-|Arrows 14u AAA Major|  1%|  3%|  4%|  4%|  6%| 11%| 13%| 14%| 34%| 36%| 42%| 43%| 44%| 47%| 49%|--| 51%| 66%| 68%| 71%| 72%| 72%| 76%| 77%| 77%| 89%| 89%| 91%| 94%| 96%
-|Indiana Elite|  1%|  3%|  4%|  4%|  5%| 10%| 12%| 13%| 33%| 36%| 41%| 42%| 43%| 46%| 48%| 49%|--| 65%| 67%| 70%| 71%| 71%| 76%| 76%| 76%| 89%| 89%| 91%| 93%| 96%
-|Palmyra Black Knights|  0%|  1%|  2%|  2%|  3%|  6%|  7%|  8%| 21%| 23%| 27%| 27%| 28%| 31%| 32%| 34%| 35%|--| 52%| 56%| 56%| 57%| 62%| 62%| 63%| 80%| 80%| 83%| 88%| 93%
-|Tri-State Spartans 14U|  0%|  1%|  2%|  2%|  3%|  5%|  6%|  7%| 20%| 22%| 25%| 26%| 27%| 30%| 31%| 32%| 33%| 48%|--| 54%| 55%| 55%| 60%| 61%| 61%| 79%| 79%| 83%| 87%| 92%
-|Wolfpack Hockey 2009|  0%|  1%|  2%|  2%|  2%|  5%|  6%|  6%| 17%| 19%| 23%| 23%| 24%| 26%| 28%| 29%| 30%| 44%| 46%|--| 50%| 51%| 57%| 57%| 57%| 77%| 77%| 80%| 85%| 91%
-|Revolution Elite 2009|  0%|  1%|  2%|  2%|  2%|  5%|  5%|  6%| 17%| 19%| 22%| 23%| 24%| 26%| 27%| 28%| 29%| 44%| 45%| 50%|--| 51%| 56%| 57%| 57%| 76%| 76%| 80%| 85%| 91%
-|Mercer Chiefs 2009|  0%|  1%|  1%|  2%|  2%|  4%|  5%|  6%| 17%| 18%| 22%| 22%| 23%| 25%| 27%| 28%| 29%| 43%| 45%| 49%| 49%|--| 55%| 56%| 56%| 76%| 76%| 79%| 85%| 91%
-|San Jose Jr Sharks|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 14%| 15%| 18%| 19%| 19%| 22%| 23%| 24%| 24%| 38%| 40%| 43%| 44%| 45%|--| 51%| 51%| 71%| 72%| 76%| 82%| 89%
-|Utica Jr. Comets|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 14%| 15%| 18%| 18%| 19%| 21%| 22%| 23%| 24%| 38%| 39%| 43%| 43%| 44%| 49%|--| 50%| 71%| 71%| 75%| 82%| 89%
-|CT Chiefs 14U|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 13%| 15%| 18%| 18%| 19%| 21%| 22%| 23%| 24%| 37%| 39%| 43%| 43%| 44%| 49%| 50%|--| 71%| 71%| 75%| 81%| 88%
-|Mid Fairfield (Independent) 09 AAA|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  6%|  7%|  8%|  8%|  9%| 10%| 11%| 11%| 11%| 20%| 21%| 23%| 24%| 24%| 29%| 29%| 29%|--| 50%| 55%| 64%| 76%
-|RHC Bantam Major Elite Raykin|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  6%|  7%|  8%|  8%|  9%| 10%| 10%| 11%| 11%| 20%| 21%| 23%| 24%| 24%| 28%| 29%| 29%| 50%|--| 55%| 64%| 76%
-|Cyclones Academy|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  2%|  5%|  5%|  7%|  7%|  7%|  8%|  9%|  9%|  9%| 17%| 17%| 20%| 20%| 21%| 24%| 25%| 25%| 45%| 45%|--| 59%| 72%
-|Jersey Hitmen|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  3%|  4%|  5%|  5%|  5%|  6%|  6%|  6%|  7%| 12%| 13%| 15%| 15%| 15%| 18%| 18%| 19%| 36%| 36%| 41%|--| 64%
-|CT Jr Rangers Tier 1- AAA 2009|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  3%|  3%|  3%|  3%|  4%|  4%|  4%|  7%|  8%|  9%|  9%|  9%| 11%| 11%| 12%| 24%| 24%| 28%| 36%|--
+|Sioux Falls Power Hockey|--| 84%| 86%| 86%| 90%| 95%| 96%| 96%| 99%| 99%| 99%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%|100%
+|Pittsburgh Predators| 16%|--| 53%| 55%| 64%| 79%| 82%| 83%| 94%| 95%| 95%| 96%| 96%| 97%| 97%| 97%| 97%| 98%| 98%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|RHC Bantam Major Premier| 14%| 47%|--| 51%| 61%| 77%| 80%| 81%| 94%| 94%| 94%| 95%| 96%| 96%| 96%| 97%| 97%| 98%| 98%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|Team North Dakota| 14%| 45%| 49%|--| 60%| 76%| 79%| 81%| 93%| 94%| 94%| 95%| 96%| 96%| 96%| 96%| 97%| 98%| 98%| 98%| 98%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|South Hills Panthers| 10%| 36%| 39%| 40%|--| 68%| 72%| 73%| 90%| 91%| 91%| 92%| 93%| 94%| 95%| 95%| 95%| 97%| 97%| 98%| 98%| 98%| 98%| 98%| 98%| 99%| 99%| 99%|100%|100%
+|PAL Jr Islanders|  5%| 21%| 23%| 24%| 32%|--| 55%| 57%| 82%| 82%| 83%| 85%| 87%| 89%| 89%| 89%| 91%| 94%| 94%| 95%| 95%| 96%| 96%| 96%| 96%| 99%| 99%| 99%| 99%|100%
+|CT Jr Rangers Elite 2009|  4%| 18%| 20%| 21%| 28%| 45%|--| 52%| 79%| 79%| 80%| 83%| 85%| 86%| 87%| 87%| 89%| 93%| 93%| 94%| 94%| 95%| 96%| 96%| 96%| 98%| 98%| 99%| 99%| 99%
+|Oakmoor Patriots|  4%| 17%| 19%| 19%| 27%| 43%| 48%|--| 77%| 78%| 79%| 82%| 84%| 85%| 86%| 87%| 88%| 92%| 93%| 94%| 94%| 94%| 95%| 95%| 95%| 98%| 98%| 98%| 99%| 99%
+|Westchester Express 09's|  1%|  6%|  6%|  7%| 10%| 18%| 21%| 23%|--| 51%| 53%| 57%| 61%| 64%| 65%| 66%| 69%| 78%| 79%| 82%| 82%| 83%| 86%| 86%| 86%| 94%| 94%| 95%| 96%| 98%
+|Hartford Jr Wolfpack 2009|  1%|  5%|  6%|  6%|  9%| 18%| 21%| 22%| 49%|--| 52%| 56%| 60%| 63%| 64%| 65%| 68%| 78%| 79%| 82%| 82%| 82%| 85%| 85%| 86%| 94%| 94%| 95%| 96%| 98%
+|CP Dynamo 2009|  1%|  5%|  6%|  6%|  9%| 17%| 20%| 21%| 47%| 48%|--| 54%| 58%| 61%| 63%| 63%| 66%| 77%| 78%| 80%| 81%| 81%| 84%| 84%| 85%| 93%| 93%| 94%| 96%| 98%
+|Biggby Coffee AAA|  1%|  4%|  5%|  5%|  8%| 15%| 17%| 18%| 43%| 44%| 46%|--| 54%| 57%| 59%| 59%| 62%| 73%| 75%| 78%| 78%| 78%| 82%| 82%| 82%| 92%| 92%| 93%| 95%| 97%
+|RHC Bantam Major Elite Sorg|  1%|  4%|  4%|  4%|  7%| 13%| 15%| 16%| 39%| 40%| 42%| 46%|--| 53%| 55%| 55%| 59%| 70%| 72%| 75%| 75%| 76%| 79%| 80%| 80%| 91%| 91%| 92%| 95%| 97%
+|Rocky Mountain RoughRiders|  1%|  3%|  4%|  4%|  6%| 11%| 14%| 15%| 36%| 37%| 39%| 43%| 47%|--| 52%| 52%| 56%| 67%| 69%| 72%| 73%| 73%| 77%| 77%| 78%| 90%| 90%| 91%| 94%| 96%
+|Arrows 14u AAA Major|  1%|  3%|  4%|  4%|  5%| 11%| 13%| 14%| 35%| 36%| 37%| 41%| 45%| 48%|--| 51%| 54%| 66%| 67%| 71%| 72%| 72%| 76%| 76%| 77%| 89%| 89%| 91%| 94%| 96%
+|Indiana Elite|  1%|  3%|  3%|  4%|  5%| 11%| 13%| 13%| 34%| 35%| 37%| 41%| 45%| 48%| 49%|--| 53%| 66%| 67%| 70%| 71%| 72%| 76%| 76%| 76%| 89%| 89%| 91%| 93%| 96%
+|Team Maryland|  1%|  3%|  3%|  3%|  5%|  9%| 11%| 12%| 31%| 32%| 34%| 38%| 41%| 44%| 46%| 47%|--| 62%| 64%| 68%| 68%| 69%| 73%| 73%| 74%| 87%| 87%| 89%| 92%| 96%
+|Palmyra Black Knights|  0%|  2%|  2%|  2%|  3%|  6%|  7%|  8%| 22%| 22%| 23%| 27%| 30%| 33%| 34%| 34%| 38%|--| 52%| 56%| 56%| 57%| 62%| 62%| 63%| 80%| 81%| 84%| 88%| 93%
+|Tri-State Spartans 14U|  0%|  2%|  2%|  2%|  3%|  6%|  7%|  7%| 21%| 21%| 22%| 25%| 28%| 31%| 33%| 33%| 36%| 48%|--| 54%| 55%| 55%| 61%| 61%| 62%| 79%| 80%| 83%| 87%| 92%
+|Wolfpack Hockey 2009|  0%|  1%|  1%|  2%|  2%|  5%|  6%|  6%| 18%| 18%| 20%| 22%| 25%| 28%| 29%| 30%| 32%| 44%| 46%|--| 51%| 51%| 57%| 57%| 58%| 77%| 77%| 80%| 86%| 91%
+|Revolution Elite 2009|  0%|  1%|  1%|  2%|  2%|  5%|  6%|  6%| 18%| 18%| 19%| 22%| 25%| 27%| 28%| 29%| 32%| 44%| 45%| 49%|--| 51%| 56%| 56%| 57%| 76%| 76%| 80%| 85%| 91%
+|Mercer Chiefs 2009|  0%|  1%|  1%|  1%|  2%|  4%|  5%|  6%| 17%| 18%| 19%| 22%| 24%| 27%| 28%| 28%| 31%| 43%| 45%| 49%| 49%|--| 55%| 55%| 56%| 76%| 76%| 79%| 85%| 91%
+|San Jose Jr Sharks|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 14%| 15%| 16%| 18%| 21%| 23%| 24%| 24%| 27%| 38%| 39%| 43%| 44%| 45%|--| 50%| 51%| 72%| 72%| 76%| 82%| 89%
+|Utica Jr. Comets|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 14%| 15%| 16%| 18%| 20%| 23%| 24%| 24%| 27%| 38%| 39%| 43%| 44%| 45%| 50%|--| 51%| 71%| 72%| 76%| 82%| 89%
+|CT Chiefs 14U|  0%|  1%|  1%|  1%|  2%|  4%|  4%|  5%| 14%| 14%| 15%| 18%| 20%| 22%| 23%| 24%| 26%| 37%| 38%| 42%| 43%| 44%| 49%| 49%|--| 71%| 71%| 75%| 81%| 88%
+|Mid Fairfield (Independent) 09 AAA|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  6%|  6%|  7%|  8%|  9%| 10%| 11%| 11%| 13%| 20%| 21%| 23%| 24%| 24%| 28%| 29%| 29%|--| 50%| 55%| 64%| 76%
+|RHC Bantam Major Elite Raykin|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  6%|  6%|  7%|  8%|  9%| 10%| 11%| 11%| 13%| 19%| 20%| 23%| 24%| 24%| 28%| 28%| 29%| 50%|--| 55%| 64%| 76%
+|Cyclones Academy|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  2%|  5%|  5%|  6%|  7%|  8%|  9%|  9%|  9%| 11%| 16%| 17%| 20%| 20%| 21%| 24%| 24%| 25%| 45%| 45%|--| 59%| 72%
+|Jersey Hitmen|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  4%|  4%|  4%|  5%|  5%|  6%|  6%|  7%|  8%| 12%| 13%| 14%| 15%| 15%| 18%| 18%| 19%| 36%| 36%| 41%|--| 63%
+|CT Jr Rangers Tier 1- AAA 2009|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  2%|  3%|  3%|  4%|  4%|  4%|  4%|  7%|  8%|  9%|  9%|  9%| 11%| 11%| 12%| 24%| 24%| 28%| 37%|--
 
 ## Generation Details
 
@@ -80,7 +80,7 @@ Generated with command line:
 | Option | Value |
 | :----- | ----: |
 | Start Date | 2023-08-26 |
-| End Date | 2024-02-11 |
+| End Date | 2024-02-17 |
 | Max Iterations | 200 |
 | Max Ratings Diff | 1e-05 |
 | Shootout Win Value | 1.00 |
