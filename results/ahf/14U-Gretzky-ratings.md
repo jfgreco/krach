@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 14U Gretzky KRACH Rankings
-Rankings generated on Thu Apr  4 07:02:33 2024.
+Rankings generated on Fri Apr  5 07:02:49 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
