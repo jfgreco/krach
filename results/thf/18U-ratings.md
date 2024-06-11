@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 18U KRACH Rankings
-Rankings generated on Mon Jun 10 07:02:53 2024.
+Rankings generated on Tue Jun 11 07:02:49 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
