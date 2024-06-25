@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 14U 2009 KRACH Rankings
-Rankings generated on Mon Jun 24 07:03:09 2024.
+Rankings generated on Tue Jun 25 07:02:49 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
