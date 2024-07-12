@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 14U Diamond KRACH Rankings
-Rankings generated on Thu Jul 11 07:02:55 2024.
+Rankings generated on Fri Jul 12 07:02:40 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
