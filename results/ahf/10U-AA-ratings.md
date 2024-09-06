@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 10U AA KRACH Rankings
-Rankings generated on Thu Sep  5 07:03:02 2024.
+Rankings generated on Fri Sep  6 07:02:43 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
