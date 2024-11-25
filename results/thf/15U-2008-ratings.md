@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 15U 2008 KRACH Rankings
-Rankings generated on Sun Nov 24 07:03:33 2024.
+Rankings generated on Mon Nov 25 07:03:29 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
