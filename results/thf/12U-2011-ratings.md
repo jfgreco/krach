@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 12U 2011 KRACH Rankings
-Rankings generated on Sat Jan 18 07:02:55 2025.
+Rankings generated on Sun Jan 19 07:03:19 2025.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
