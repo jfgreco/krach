@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 10U 2013 KRACH Rankings
-Rankings generated on Wed Feb 12 07:02:53 2025.
+Rankings generated on Thu Feb 13 07:03:28 2025.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
