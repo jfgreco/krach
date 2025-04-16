@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 14U Lemieux KRACH Rankings
-Rankings generated on Tue Apr 15 07:03:16 2025.
+Rankings generated on Wed Apr 16 07:03:09 2025.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
