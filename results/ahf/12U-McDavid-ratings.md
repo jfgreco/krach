@@ -1,6 +1,6 @@
 [<- back to the index](readme.md)
 # 12U McDavid KRACH Rankings
-Rankings generated on Thu May  8 07:03:14 2025.
+Rankings generated on Fri May  9 07:03:00 2025.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
