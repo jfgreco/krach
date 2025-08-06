@@ -1,10 +1,10 @@
 [<- back to the index](readme.md)
 # 16U Diamond KRACH Rankings
-Rankings generated on Tue Aug  5 07:06:42 2025.
+Rankings generated on Wed Aug  6 07:06:56 2025.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|4765|Playoffs|[PTL Black](https://gamesheetstats.com/seasons/3663/teams/140833/schedule)|28|26|2|0|3|0|432|26.8|-0.0
+1|4765|Playoffs|[2023-24 Princeton Tiger Lilies U16AA Black](https://gamesheetstats.com/seasons/3663/teams/140833/schedule)|28|26|2|0|3|0|432|26.8|-0.0
 2|2071|Playoffs|[MassConn United Hockey Club](https://gamesheetstats.com/seasons/3663/teams/140835/schedule)|6|4|2|0|0|0|1682|4.8|-0.0
 3|1015|Playoffs|[NJ Bandits](https://gamesheetstats.com/seasons/3663/teams/140836/schedule)|28|19|7|2|0|3|965|20.8|-0.0
 4|487|Playoffs|[South Pittsburgh Rebellion Hammel](https://gamesheetstats.com/seasons/3663/teams/140839/schedule)|16|9|5|2|0|0|788|10.8|-0.0
@@ -26,9 +26,9 @@ Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 
 ## Predictions
 Uses KRACH ratings to predict winning percentage of each team (row) against each opponent (column).
-||PTL Black|MassConn United Hockey Club|NJ Bandits|South Pittsburgh Rebellion Hammel|Jr Flyers Smith|CT Polar Bears|MYHA|CT Ice Cats|PTL Orange|STJ|Jr Flyers Sakers|Twin Rinks Eisenhower Youth|Maryland Jr. Blackbears|York Lady Devils|Stateline Hawks|Reston Raiders|LVPY|Skyland Lady Kings|New York Islanders 2
+||2023-24 Princeton Tiger Lilies U16AA Black|MassConn United Hockey Club|NJ Bandits|South Pittsburgh Rebellion Hammel|Jr Flyers Smith|CT Polar Bears|MYHA|CT Ice Cats|PTL Orange|STJ|Jr Flyers Sakers|Twin Rinks Eisenhower Youth|Maryland Jr. Blackbears|York Lady Devils|Stateline Hawks|Reston Raiders|LVPY|Skyland Lady Kings|New York Islanders 2
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: 
-|PTL Black|--| 70%| 82%| 91%| 91%| 92%| 95%| 98%| 98%| 98%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|2023-24 Princeton Tiger Lilies U16AA Black|--| 70%| 82%| 91%| 91%| 92%| 95%| 98%| 98%| 98%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
 |MassConn United Hockey Club| 30%|--| 67%| 81%| 82%| 83%| 89%| 95%| 95%| 96%| 97%| 97%| 98%| 99%| 99%| 99%|100%|100%|100%
 |NJ Bandits| 18%| 33%|--| 68%| 69%| 71%| 79%| 91%| 91%| 93%| 94%| 94%| 96%| 97%| 98%| 99%| 99%| 99%|100%
 |South Pittsburgh Rebellion Hammel|  9%| 19%| 32%|--| 52%| 54%| 65%| 82%| 83%| 86%| 88%| 88%| 93%| 95%| 97%| 97%| 99%| 99%| 99%
